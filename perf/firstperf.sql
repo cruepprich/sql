@@ -1,2 +1,3 @@
 --hello world
-select * from dual;	
+select * from dual
+order by 1;
