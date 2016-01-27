@@ -1,1 +1,1 @@
-select * from dual order by 1;
+select /* my hint */ * from dual order by 1;
